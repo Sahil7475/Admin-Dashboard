@@ -51,7 +51,7 @@ const Navbar = ({ user, isSidebarOpen, setIsSidebarOpen }) => {
                         backgroundColor={theme.palette.background.alt}
                         borderRadius="9px"
                         gap="3rem"
-                        p="0.1rem 1.5rem"
+                        p="0.12rem 1.5rem"
                     >
                         <InputBase placeholder="Search..." />
                         <IconButton>
