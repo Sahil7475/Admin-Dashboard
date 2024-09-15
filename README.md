@@ -59,6 +59,9 @@ Start the Client:
 ```bash
 npm start 
 ```
+## Live Demo
+- [View Live](https://admin-dashboard-d7fp.vercel.app/)
+
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/4fca58c6-697c-4616-b1f4-ac7c3f1f4d24)
 
